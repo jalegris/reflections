@@ -1,1 +1,1 @@
-# reflections - test space for Udacity Git course
+# reflections - A repository for files for the Udacity Git course
